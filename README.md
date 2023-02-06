@@ -9,3 +9,7 @@ Click the Blue Text to Pick a game To script on.
 
 ## Website! (in beta testing)
 * https://0x22F.github.io/roblox-scripts
+
+## Downloads
+* <a href="hydrogen.sh">Hydrogen Executor</a>
+* <a href="#">Whole Source Code</a>
