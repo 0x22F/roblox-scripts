@@ -7,4 +7,4 @@ All Blox Fruit scripts go here.
 Copy this piece of code to use the
 BLACKTRAP Script.
 
-```loadstring(game:HttpGet(''))()```
+```loadstring(game:HttpGet('https://raw.githubusercontent.com/0x22F/roblox-scripts/main/scripts/BloxFruit/BLACKTRAP/script.txt?token=GHSAT0AAAAAAB53IE2PR43DMQAGLE5I5VGYY7BBNNA'))()```
