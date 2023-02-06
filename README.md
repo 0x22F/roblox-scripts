@@ -12,4 +12,7 @@ Click the Blue Text to Pick a game To script on.
 
 ## Downloads
 * <a href="hydrogen.sh">Hydrogen Executor</a>
-* <a href="#">Whole Source Code</a>
+* don't know what to put :(
+
+Copyright 2023 0x22F.
+All rights reserved.
